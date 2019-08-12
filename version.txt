@@ -1,1 +1,13 @@
-6 
+ Volume in drive D is Data
+ Volume Serial Number is 9E38-F04D
+
+ Directory of d:\CI\workspace\release_update_macos_repo
+
+08/12/2019  11:35 AM    <DIR>          .
+08/12/2019  11:35 AM    <DIR>          ..
+08/09/2019  03:12 PM         2,790,833 PO-7.03.33615.1475-macos.tgz
+08/09/2019  03:09 PM         8,274,131 PO-7.03.33615.1475-x86_64.tgz
+08/12/2019  11:36 AM                 0 version.txt
+               3 File(s)     11,064,964 bytes
+               2 Dir(s)  797,543,841,792 bytes free
+7 
